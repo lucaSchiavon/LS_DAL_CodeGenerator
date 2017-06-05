@@ -1,0 +1,14 @@
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\bin\Release\CodeGeneratorSln.exe
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\bin\Release\CodeGeneratorSln.pdb
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\bin\Release\CodeGeneratorLogic.dll
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\bin\Release\ITryFramework.dll
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\bin\Release\CodeGeneratorLogic.pdb
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\bin\Release\ITryFramework.pdb
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\ResolveAssemblyReference.cache
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\CodeGenerator.CodeGeneratorForm.resources
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\CodeGenerator.ConfigFrm.resources
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\CodeGeneratorSln.Properties.Resources.resources
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\ResGen.read.1.tlog
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\ResGen.write.1.tlog
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\CodeGeneratorSln.exe
+H:\WebTools\AQProjects\CodeGenerator\trunk\CodeGeneratorSln\obj\Release\CodeGeneratorSln.pdb

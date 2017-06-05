@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://194.242.61.188/|ftp://194.242.61.188/etolum81/|ftp://194.242.61.188/etolum81/itry.it/db/|ftp://194.242.61.188/db/|ftp://194.242.61.188/codegenerator/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.itry.it/codegenerator/|\\aqapp\WebTools\AQProjects\ClickOnceProjects\CodeGenerator\|file://Users/ftorioli/Desktop/|\\127.0.0.1\Users\ftorioli\Desktop\|\\aqapp\WebTools\AqProjects\</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>it-IT</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+</Project>
